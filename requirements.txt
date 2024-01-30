@@ -1,0 +1,11 @@
+cachetools==5.3.1
+distlib==0.3.8
+filelock==3.13.1
+gitdb==4.0.11
+GitPython==3.1.41
+pefile==2023.2.7
+platformdirs==4.1.0
+py2exe==0.13.0.1
+pywin32==306
+smmap==5.0.1
+virtualenv==20.25.0
